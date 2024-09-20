@@ -1,7 +1,7 @@
 # RL_Real_World_Problem_Solve
 How to Apply Reinforcement Learning to Solve Real-World Problems
 ## File 
-There are 2 main file
+There are 3 main file
 1. rl_air_condition_temp_control : main file
 2. rl_temp (playground_file)
 3. rl_medium : Lib install requirement
